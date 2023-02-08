@@ -283,6 +283,9 @@
   justify-content: space-between;
   min-height: 350px;
 }
+.footer__column {
+  margin: 0;
+}
 
 .footer__column_content_copyright {
   margin: 0;
