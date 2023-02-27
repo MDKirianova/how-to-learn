@@ -2,7 +2,7 @@
   margin: 0;
   border: 0;
   width: 620px;
-  min-height: 608px;
-  object-fit: contain;
-  object-position: left;
+  height: 608px;
+  object-fit: cover;
+  object-position: top;
 }
